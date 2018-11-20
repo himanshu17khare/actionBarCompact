@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/himanshu/Desktop/AndroidProjects/ActionBarCompat-Styled/Application/src/main/AndroidManifest.xml:18:1-56:12
+INJECTED from /home/himanshu/Desktop/AndroidProjects/ActionBarCompat-Styled/Application/src/main/AndroidManifest.xml:18:1-56:12
+INJECTED from /home/himanshu/Desktop/AndroidProjects/ActionBarCompat-Styled/Application/src/main/AndroidManifest.xml:18:1-56:12
+MERGED from [com.android.support:support-v4:27.0.2] /home/himanshu/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/8ec8ccc7dd0bfcd430b9529b45be2e46/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:gridlayout-v7:27.0.2] /home/himanshu/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-27.0.2.aar/d128f42a11072b67f03d4180c44e6eb2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/himanshu/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/b1487b714696c83deb2b598efd17c4f9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/himanshu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f4247bedcdc8850a197909d46fb214f3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/himanshu/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/d1bca296571e174243e53930ca6d79fc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /home/himanshu/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/303ab2ee360ce4a54e5e69561f6387ad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/himanshu/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/8cdc58ed95ee2d719fb1783120191726/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/himanshu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/c7ffa54b7953bc5b373b7983ec039dd0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/himanshu/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/6dd91a844b218ff549ae6b942ac10d4f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/himanshu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/13005d93bed06bbf4fdcaee5cd332c9c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /home/himanshu/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/9997ec4e6048fe691f6337c5b165dc33/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/himanshu/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/e5e090f6ee5a861f36ce10374479bb4e/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/himanshu/Desktop/AndroidProjects/ActionBarCompat-Styled/Application/src/main/AndroidManifest.xml:18:1-56:12
+INJECTED from /home/himanshu/Desktop/AndroidProjects/ActionBarCompat-Styled/Application/src/main/AndroidManifest.xml:18:1-56:12
+	package
+		ADDED from /home/himanshu/Desktop/AndroidProjects/ActionBarCompat-Styled/Application/src/main/AndroidManifest.xml:20:5-57
+	android:versionName
+		ADDED from /home/himanshu/Desktop/AndroidProjects/ActionBarCompat-Styled/Application/src/main/AndroidManifest.xml:22:5-30
+		INJECTED from /home/himanshu/Desktop/AndroidProjects/ActionBarCompat-Styled/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/himanshu/Desktop/AndroidProjects/ActionBarCompat-Styled/Application/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/himanshu/Desktop/AndroidProjects/ActionBarCompat-Styled/Application/src/main/AndroidManifest.xml:19:5-51
+	xmlns:android
+		ADDED from /home/himanshu/Desktop/AndroidProjects/ActionBarCompat-Styled/Application/src/main/AndroidManifest.xml:18:11-69
+	android:versionCode
+		ADDED from /home/himanshu/Desktop/AndroidProjects/ActionBarCompat-Styled/Application/src/main/AndroidManifest.xml:21:5-28
+		INJECTED from /home/himanshu/Desktop/AndroidProjects/ActionBarCompat-Styled/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/himanshu/Desktop/AndroidProjects/ActionBarCompat-Styled/Application/src/main/AndroidManifest.xml
+application
+ADDED from /home/himanshu/Desktop/AndroidProjects/ActionBarCompat-Styled/Application/src/main/AndroidManifest.xml:30:5-54:19
+	android:label
+		ADDED from /home/himanshu/Desktop/AndroidProjects/ActionBarCompat-Styled/Application/src/main/AndroidManifest.xml:32:9-41
+	tools:ignore
+		ADDED from /home/himanshu/Desktop/AndroidProjects/ActionBarCompat-Styled/Application/src/main/AndroidManifest.xml:34:9-48
+	android:icon
+		ADDED from /home/himanshu/Desktop/AndroidProjects/ActionBarCompat-Styled/Application/src/main/AndroidManifest.xml:31:9-45
+	android:theme
+		ADDED from /home/himanshu/Desktop/AndroidProjects/ActionBarCompat-Styled/Application/src/main/AndroidManifest.xml:33:9-44
+activity#com.example.android.actionbarcompat.styled.MainActivity
+ADDED from /home/himanshu/Desktop/AndroidProjects/ActionBarCompat-Styled/Application/src/main/AndroidManifest.xml:36:9-53:20
+	android:name
+		ADDED from /home/himanshu/Desktop/AndroidProjects/ActionBarCompat-Styled/Application/src/main/AndroidManifest.xml:36:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/himanshu/Desktop/AndroidProjects/ActionBarCompat-Styled/Application/src/main/AndroidManifest.xml:39:13-42:29
+action#android.intent.action.MAIN
+ADDED from /home/himanshu/Desktop/AndroidProjects/ActionBarCompat-Styled/Application/src/main/AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from /home/himanshu/Desktop/AndroidProjects/ActionBarCompat-Styled/Application/src/main/AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/himanshu/Desktop/AndroidProjects/ActionBarCompat-Styled/Application/src/main/AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from /home/himanshu/Desktop/AndroidProjects/ActionBarCompat-Styled/Application/src/main/AndroidManifest.xml:41:27-74
+meta-data#android.support.UI_OPTIONS
+ADDED from /home/himanshu/Desktop/AndroidProjects/ActionBarCompat-Styled/Application/src/main/AndroidManifest.xml:49:13-51:60
+	android:value
+		ADDED from /home/himanshu/Desktop/AndroidProjects/ActionBarCompat-Styled/Application/src/main/AndroidManifest.xml:51:17-57
+	android:name
+		ADDED from /home/himanshu/Desktop/AndroidProjects/ActionBarCompat-Styled/Application/src/main/AndroidManifest.xml:50:17-58
+uses-sdk
+INJECTED from /home/himanshu/Desktop/AndroidProjects/ActionBarCompat-Styled/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/himanshu/Desktop/AndroidProjects/ActionBarCompat-Styled/Application/src/main/AndroidManifest.xml
+INJECTED from /home/himanshu/Desktop/AndroidProjects/ActionBarCompat-Styled/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v4:27.0.2] /home/himanshu/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/8ec8ccc7dd0bfcd430b9529b45be2e46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/himanshu/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/8ec8ccc7dd0bfcd430b9529b45be2e46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] /home/himanshu/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-27.0.2.aar/d128f42a11072b67f03d4180c44e6eb2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] /home/himanshu/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-27.0.2.aar/d128f42a11072b67f03d4180c44e6eb2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/himanshu/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/b1487b714696c83deb2b598efd17c4f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/himanshu/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/b1487b714696c83deb2b598efd17c4f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/himanshu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f4247bedcdc8850a197909d46fb214f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/himanshu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f4247bedcdc8850a197909d46fb214f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/himanshu/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/d1bca296571e174243e53930ca6d79fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/himanshu/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/d1bca296571e174243e53930ca6d79fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/himanshu/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/303ab2ee360ce4a54e5e69561f6387ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/himanshu/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/303ab2ee360ce4a54e5e69561f6387ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/himanshu/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/8cdc58ed95ee2d719fb1783120191726/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/himanshu/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/8cdc58ed95ee2d719fb1783120191726/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/himanshu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/c7ffa54b7953bc5b373b7983ec039dd0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/himanshu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/c7ffa54b7953bc5b373b7983ec039dd0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/himanshu/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/6dd91a844b218ff549ae6b942ac10d4f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/himanshu/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/6dd91a844b218ff549ae6b942ac10d4f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/himanshu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/13005d93bed06bbf4fdcaee5cd332c9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/himanshu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/13005d93bed06bbf4fdcaee5cd332c9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/himanshu/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/9997ec4e6048fe691f6337c5b165dc33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/himanshu/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/9997ec4e6048fe691f6337c5b165dc33/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/himanshu/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/e5e090f6ee5a861f36ce10374479bb4e/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/himanshu/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/e5e090f6ee5a861f36ce10374479bb4e/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/himanshu/Desktop/AndroidProjects/ActionBarCompat-Styled/Application/src/main/AndroidManifest.xml
+INJECTED from /home/himanshu/Desktop/AndroidProjects/ActionBarCompat-Styled/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/himanshu/Desktop/AndroidProjects/ActionBarCompat-Styled/Application/src/main/AndroidManifest.xml
+		ADDED from /home/himanshu/Desktop/AndroidProjects/ActionBarCompat-Styled/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/himanshu/Desktop/AndroidProjects/ActionBarCompat-Styled/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/himanshu/Desktop/AndroidProjects/ActionBarCompat-Styled/Application/src/main/AndroidManifest.xml
+		ADDED from /home/himanshu/Desktop/AndroidProjects/ActionBarCompat-Styled/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/himanshu/Desktop/AndroidProjects/ActionBarCompat-Styled/Application/src/main/AndroidManifest.xml

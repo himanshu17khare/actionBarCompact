@@ -1,0 +1,4 @@
+#Tue Oct 09 11:45:43 IST 2018
+base.0=/home/himanshu/Desktop/AndroidProjects/ActionBarCompat-Styled/Application/build/intermediates/transforms/dexMerger/debug/4
+path.0=classes.dex
+renamed.0=classes.dex
